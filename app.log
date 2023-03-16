@@ -1,0 +1,21 @@
+2023-03-07 19:09:44,281 INFO com.webla.clinical.controller.PatientController [http-nio-9090-exec-7] Property from Properties file I am from properties file QA
+2023-03-07 19:09:44,295 WARN com.webla.clinical.controller.PatientController [http-nio-9090-exec-7] Its warning
+2023-03-07 19:09:44,296 ERROR com.webla.clinical.controller.PatientController [http-nio-9090-exec-7] its Error
+2023-03-07 19:09:50,637 INFO com.webla.clinical.controller.PatientController [http-nio-9090-exec-2] Property from Properties file I am from properties file QA
+2023-03-07 19:09:50,647 WARN com.webla.clinical.controller.PatientController [http-nio-9090-exec-2] Its warning
+2023-03-07 19:09:50,647 ERROR com.webla.clinical.controller.PatientController [http-nio-9090-exec-2] its Error
+2023-03-07 19:15:28,328 INFO com.webla.clinical.controller.PatientController [http-nio-9090-exec-7] Property from Properties file I am from properties file QA
+2023-03-07 19:15:28,336 WARN com.webla.clinical.controller.PatientController [http-nio-9090-exec-7] Its warning
+2023-03-07 19:15:28,337 ERROR com.webla.clinical.controller.PatientController [http-nio-9090-exec-7] its Error
+2023-03-07 19:15:30,192 INFO com.webla.clinical.controller.PatientController [http-nio-9090-exec-10] Property from Properties file I am from properties file QA
+2023-03-07 19:15:30,205 WARN com.webla.clinical.controller.PatientController [http-nio-9090-exec-10] Its warning
+2023-03-07 19:15:30,205 ERROR com.webla.clinical.controller.PatientController [http-nio-9090-exec-10] its Error
+2023-03-07 19:15:35,428 INFO com.webla.clinical.controller.PatientController [http-nio-9090-exec-3] Property from Properties file I am from properties file QA
+2023-03-07 19:15:35,444 WARN com.webla.clinical.controller.PatientController [http-nio-9090-exec-3] Its warning
+2023-03-07 19:15:35,445 ERROR com.webla.clinical.controller.PatientController [http-nio-9090-exec-3] its Error
+2023-03-07 19:16:45,295 INFO com.webla.clinical.controller.PatientController [http-nio-9090-exec-8] patient id
+2023-03-07 19:16:45,459 INFO com.webla.clinical.controller.PatientController [http-nio-9090-exec-9] patient id
+2023-03-07 19:18:55,208 INFO com.webla.clinical.controller.PatientController [http-nio-9090-exec-2] patient id
+2023-03-07 19:18:55,229 INFO com.webla.clinical.controller.PatientController [http-nio-9090-exec-3] patient id
+2023-03-07 19:21:02,618 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(38)-127.0.0.1] Application shutdown requested.
+2023-03-07 19:21:02,816 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(38)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
